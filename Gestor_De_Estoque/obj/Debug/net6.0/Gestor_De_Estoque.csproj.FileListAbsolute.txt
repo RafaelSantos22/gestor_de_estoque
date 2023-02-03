@@ -1,0 +1,15 @@
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\bin\Debug\net6.0\Gestor_De_Estoque.exe
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\bin\Debug\net6.0\Gestor_De_Estoque.deps.json
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\bin\Debug\net6.0\Gestor_De_Estoque.runtimeconfig.json
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\bin\Debug\net6.0\Gestor_De_Estoque.dll
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\bin\Debug\net6.0\Gestor_De_Estoque.pdb
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.csproj.AssemblyReference.cache
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.AssemblyInfoInputs.cache
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.AssemblyInfo.cs
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.csproj.CoreCompileInputs.cache
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.dll
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\refint\Gestor_De_Estoque.dll
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.pdb
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\Gestor_De_Estoque.genruntimeconfig.cache
+C:\projetos\Gestor_De_Estoque\Gestor_De_Estoque\obj\Debug\net6.0\ref\Gestor_De_Estoque.dll
