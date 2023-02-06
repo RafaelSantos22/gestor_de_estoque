@@ -208,6 +208,8 @@ namespace Gestor_De_Cliente
 
             try
             {
+                produtos = (List<IEstoque>)enconder.Deserialize(stream);
+
                 if(produtos == null)
                 {
                     produtos = new List<IEstoque>();
