@@ -24,12 +24,24 @@ namespace Gestor_De_Estoque.Entities
 
         public void AdicionarEntrada()
         {
-            
+            Console.Clear();
+            Console.WriteLine($"Adicionar entrada no estoque do produto {Nome}\n");
+            Console.Write("Digite a quantidade que você quer dar entrada: ");
+            int entrada = int.Parse( Console.ReadLine());
+            Estoque += entrada;
+            Console.WriteLine("\nEntrada registrada!");
+            Console.ReadLine();
         }
 
         public void AdicionarSaida()
         {
-            
+            Console.Clear();
+            Console.WriteLine($"Adicionar saída no estoque do produto {Nome}\n");
+            Console.Write("Digite a quantidade que você quer dar baixa: ");
+            int saida = int.Parse(Console.ReadLine());
+            Estoque -= saida;
+            Console.WriteLine("\nSaída registrada!");
+            Console.ReadLine();
         }
     }
 }

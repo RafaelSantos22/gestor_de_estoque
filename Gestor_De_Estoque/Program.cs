@@ -51,10 +51,10 @@ namespace Gestor_De_Cliente
                         Listagem();
                         break;
                     case Menu.Entrada:
-                        //Entrada();
+                        Entrada();
                         break;
                     case Menu.Saida:
-                        //Saida();
+                        Saida();
                         break;
                 }
             }
@@ -97,6 +97,30 @@ namespace Gestor_De_Cliente
             }
             Console.Clear();
             Console.WriteLine("Produto removido com sucesso!");
+        }
+
+        static void Entrada()
+        {
+            Listagem();
+            Console.Write("\nDigite o ID do produto que deseja dar entrada: ");
+            int id = int.Parse(Console.ReadLine());
+            if (id >= 0 && id < produtos.Count)
+            {
+                produtos[id].AdicionarEntrada();
+                Salvar();
+            }
+        }
+
+        static void Saida()
+        {
+            Listagem();
+            Console.Write("\nDigite o ID do produto que deseja dar baixa: ");
+            int id = int.Parse(Console.ReadLine());
+            if (id >= 0 && id < produtos.Count)
+            {
+                produtos[id].AdicionarSaida();
+                Salvar();
+            }
         }
 
         static void Cadastro()
